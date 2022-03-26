@@ -2,7 +2,9 @@
 
 Please feel free to use these programs non-commercially and for any use please cite our work:
 
-Smith et al 2021
+Single-molecule imaging reveals the concerted release of myosin from regulated thin filaments
+Quentin M Smith, Alessio V Inchingolo, Madalina-Daniela Mihailescu, Hongsheng Dai and Neil M Kad
+PMID: 34569933 PMCID: PMC8476120 DOI: <a href="https://doi.org/10.7554/elife.69184>10.7554/eLife.69184</a> 
 
 Use of MATLAB script requires installation of ezyfit (http://www.fast.u-psud.fr/ezyfit/)
 
